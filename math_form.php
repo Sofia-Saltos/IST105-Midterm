@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color:rgb(201, 166, 194);
+            background-color:rgb(185, 162, 181);
             display: flex;
             flex-direction: column;
             align-items: center;
